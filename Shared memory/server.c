@@ -6,7 +6,7 @@ int main()
 	buf = shmat(shmid,NULL,0);
 	sleep(5);
 	int count = 0;
-	while(count < 20)
+	while(count < 26)
 	{
 		buf[count++] = 'a' + count;
 		buf[count] = '\0';
