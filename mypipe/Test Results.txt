@@ -1,0 +1,7 @@
+[root@localhost Testpipe]# ./mypipe 
+i am child 
+i am child 
+i am child 
+i am child 
+i am child 
+i am child
